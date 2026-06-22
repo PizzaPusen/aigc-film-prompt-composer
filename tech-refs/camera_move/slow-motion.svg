@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 270" width="480" height="270">
+<rect width="100%" height="100%" fill="#f5f5f7"/>
+<g fill="#86868b" stroke="none">
+<circle cx="240" cy="128.2" r="9.9"/>
+<rect x="228.3" y="140.8" width="23.400000000000002" height="37.800000000000004" rx="3"/>
+<rect x="225.6" y="178.6" width="9" height="34.2" rx="3"/>
+<rect x="245.4" y="178.6" width="9" height="34.2" rx="3"/>
+</g><text x="240" y="95" text-anchor="middle" font-size="42" font-weight="700" fill="#0071e3" opacity="0.25">×0.25</text><text x="240" y="248" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="#86868b">慢动作</text>
+</svg>

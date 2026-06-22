@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 270" width="480" height="270">
+<rect width="100%" height="100%" fill="#f5f5f7"/>
+<rect x="60" y="90" width="86" height="90" rx="6" fill="#bc6c25"/><rect x="150" y="90" width="86" height="90" rx="6" fill="#dda15e"/><rect x="240" y="90" width="86" height="90" rx="6" fill="#606c38"/><rect x="330" y="90" width="86" height="90" rx="6" fill="#283618"/><text x="240" y="248" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="#86868b">末日废土黄昏色</text>
+</svg>

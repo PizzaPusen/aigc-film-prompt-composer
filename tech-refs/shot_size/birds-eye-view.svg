@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 270" width="480" height="270">
+<rect width="100%" height="100%" fill="#f5f5f7"/>
+<rect x="90" y="40" width="300" height="185" fill="none" stroke="#0071e3" stroke-width="3" rx="4"/>
+<rect x="90" y="40" width="300" height="185" fill="#0071e3" fill-opacity="0.06" rx="4"/>
+<circle cx="240" cy="130" r="18" fill="#86868b"/>
+<line x1="240" y1="148" x2="240" y2="175" stroke="#86868b" stroke-width="4"/>
+<g transform="translate(240,28) rotate(90)">
+<rect x="-18" y="-12" width="36" height="24" rx="4" fill="#1d1d1f"/>
+<circle cx="0" cy="0" r="8" fill="#0071e3"/>
+<rect x="18" y="-6" width="10" height="12" rx="2" fill="#1d1d1f"/>
+</g>
+<line x1="240" y1="48" x2="240" y2="95" stroke="#0071e3" stroke-width="3" stroke-linecap="round"/>
+<polygon points="240,95 234,83 246,83" fill="#0071e3"/>
+<text x="240" y="248" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="#86868b">上帝视角 · 垂直俯瞰</text>
+</svg>

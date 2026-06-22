@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 270" width="480" height="270">
+<rect width="100%" height="100%" fill="#f5f5f7"/>
+<rect x="130" y="55" width="220" height="155" fill="none" stroke="#0071e3" stroke-width="3" rx="4"/>
+<rect x="130" y="55" width="220" height="155" fill="#0071e3" fill-opacity="0.06" rx="4"/><g fill="#86868b" stroke="none">
+<circle cx="240" cy="113" r="11"/>
+<rect x="227" y="127" width="26" height="42" rx="3"/>
+<rect x="224" y="169" width="10" height="38" rx="3"/>
+<rect x="246" y="169" width="10" height="38" rx="3"/>
+</g><line x1="240" y1="215" x2="240" y2="175" stroke="#0071e3" stroke-width="3" stroke-linecap="round"/>
+<polygon points="240,175 246,187 234,187" fill="#0071e3"/><text x="355" y="90" font-size="11" fill="#86868b">zoom</text><line x1="355" y1="100" x2="355" y2="140" stroke="#0071e3" stroke-width="3" stroke-linecap="round"/>
+<polygon points="355,140 349,128 361,128" fill="#0071e3"/><text x="240" y="248" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="#86868b">变焦 · 空间扭曲</text>
+</svg>

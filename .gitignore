@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+
+# 本地抓取缓存（可重新生成）
+image-cache.json
+poster-fetch-cache.json
+_all-films.txt

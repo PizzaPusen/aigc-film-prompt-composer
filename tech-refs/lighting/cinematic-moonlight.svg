@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 270" width="480" height="270">
+<rect width="100%" height="100%" fill="#f5f5f7"/>
+<circle cx="240" cy="130" r="42" fill="#d2d2d7"/><circle cx="240" cy="130" r="38" fill="#e8e8ed"/><circle cx="340" cy="60" r="14" fill="#64d2ff"/><line x1="326" y1="72" x2="270" y2="110" stroke="#0071e3" stroke-width="3" stroke-linecap="round"/>
+<polygon points="270,110 276.5607007826775,98.29712833360227 283.2987178027247,108.22683762630336" fill="#0071e3"/><rect x="60" y="40" width="360" height="150" fill="#0a84ff" opacity="0.08" rx="8"/><text x="240" y="248" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="#86868b">月光 · 冷蓝调</text>
+</svg>
